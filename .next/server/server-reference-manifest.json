@@ -1,0 +1,55 @@
+{
+  "node": {
+    "404fdeffef27e521d190967d6ac1d51e3ef0241727": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        },
+        "app/(app)/doc-verification/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/doc-verification/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser",
+        "app/(app)/doc-verification/page": "action-browser"
+      }
+    },
+    "4019b4bd640b3b3cb9c09fb3a7ff4ab5161ff15b57": {
+      "workers": {
+        "app/(app)/dashboard/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/dashboard/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/dashboard/page": "action-browser"
+      }
+    },
+    "40d5aebf28086ea1b96e4db10f747dc33630b1bafd": {
+      "workers": {
+        "app/(app)/doc-verification/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/doc-verification/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/doc-verification/page": "action-browser"
+      }
+    },
+    "407d3e6cdb63a785364ce69716cfdda519de0be53e": {
+      "workers": {
+        "app/(app)/doc-verification/page": {
+          "moduleId": "[project]/.next-internal/server/app/(app)/doc-verification/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/(app)/doc-verification/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "vt1GA2GnCmqDvxWwkcwqgURe29jz5xRVq6DKM+WkG/0="
+}

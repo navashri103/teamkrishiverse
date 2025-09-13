@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///home/user/studio/src/app/%28auth%29/layout.tsx"],"sourcesContent":["export default function AuthLayout({children}: {children: React.ReactNode}) {\n  return (\n    <div className=\"relative flex min-h-screen flex-col items-center justify-center bg-cover bg-center bg-no-repeat p-4\" style={{backgroundImage: \"url('https://images.unsplash.com/photo-1499529112087-3cb3b73cec95?q=80&w=1974&auto=format&fit=crop')\"}} data-ai-hint=\"lush green farm\">\n      <div className=\"absolute inset-0 bg-black/60\" />\n      <div className=\"relative z-10 w-full max-w-lg animate-fade-in-up\">\n        {children}\n      </div>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;AAAe,SAAS,WAAW,EAAC,QAAQ,EAA8B;IACxE,qBACE,8OAAC;QAAI,WAAU;QAAsG,OAAO;YAAC,iBAAiB;QAAsG;QAAG,gBAAa;;0BAClQ,8OAAC;gBAAI,WAAU;;;;;;0BACf,8OAAC;gBAAI,WAAU;0BACZ;;;;;;;;;;;;AAIT","debugId":null}}]
+}
